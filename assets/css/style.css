@@ -463,7 +463,7 @@ body { background: var(--white); }
 
 .popular-card:hover{
   transform: scale(1.1);
-  transition: all ease-in-out .3s;
+  transition: all ease-in-out .5s;
 }
 
 .popular-card .card-content {
@@ -531,7 +531,7 @@ body { background: var(--white); }
 
 .gallery-image:hover {
   transform: scale(1.1);
-  transition: all ease-in-out .3ms;
+  transition: all ease-in-out 0.5s;
 }
 
 
